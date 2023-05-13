@@ -1,0 +1,12 @@
+# RULE-SET
+
+# DouYu
+DOMAIN-SUFFIX,wan.douyu.com
+DOMAIN-SUFFIX,club-img.douyucdn.cn
+DOMAIN-KEYWORD,-op.douyucdn.cn
+DOMAIN-SUFFIX,rtbapi.douyucdn.cn
+DOMAIN-SUFFIX,dotcounter.douyutv.com
+DOMAIN-SUFFIX,dotcounter.douyucdn.cn
+DOMAIN-SUFFIX,dotserver.douyucdn.cn
+
+# PornHub
