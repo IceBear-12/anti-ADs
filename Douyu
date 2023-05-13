@@ -1,9 +1,9 @@
 # Based on DouYu iOS/iPadOS client, version 7.5
-# DOMAIN-SET,URL,REJECT-200
+# RULE-SET,URL,REJECT-200
 # Each line in the file is a domain name if a line begins with . matches all sub-domains and the domain name itself.
-.wan.douyu.com
-.club-img.douyucdn.cn
-.cs-op.douyucdn.cn
-.rtbapi.douyucdn.cn
-.dotcounter.douyutv.com
-sta-op.douyucdn.cn
+DOMAIN-SUFFIX,wan.douyu.com
+DOMAIN-SUFFIX,club-img.douyucdn.cn
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,rtbapi.douyucdn.cn
+DOMAIN-SUFFIX,dotcounter.douyutv.com
+DOMAIN-KEYWORD,sta-op.douyucdn.cn
